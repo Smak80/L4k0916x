@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">L4k0916x</string>
+    <string name="exercise" translatable="false">%d %c %d = </string>
+</resources>
